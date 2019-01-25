@@ -1,0 +1,49 @@
+[33mcommit ccdae559de55fa6d29f2d5409319e8b8960405da[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7f4fcee ff4cdb9
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 19:51:21 2019 +0100
+
+    Merge branch 'conflict'
+
+[33mcommit 7f4fcee884dc84a63a1d0417521d825f11b00ac3[m
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 19:46:29 2019 +0100
+
+    zmiana w raporcie master
+
+[33mcommit ff4cdb96ce51e32eb573a52d3516e3f046ab3d45[m
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 19:42:51 2019 +0100
+
+    Zmiana w raporcie -conflict
+
+[33mcommit 9fdb8128bf057ef913aa0c00c3667f17b2dc6d4e[m
+Merge: 91fea50 c7516c8
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 19:35:01 2019 +0100
+
+    Merge branch 'refactoring'
+
+[33mcommit 91fea504b98b52117fb1b7c86eba5d4e289eaf9c[m
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 19:32:55 2019 +0100
+
+    dodanie naglowka
+
+[33mcommit c7516c8da4dd45cb49521437d2fd12a71c323559[m[33m ([m[1;32mrefactoring[m[33m)[m
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 19:27:55 2019 +0100
+
+    Modyfikacja pliku na refactoring.
+
+[33mcommit 72a70c9ae34046684008419d010fe21d45456095[m
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 18:58:47 2019 +0100
+
+    Druga wersja raportu
+
+[33mcommit 926ee0392e2e2ad790c3279791525753255c08f5[m
+Author: RaienPL <stanislaw.matraszek99@gmail.com>
+Date:   Fri Jan 25 18:25:46 2019 +0100
+
+    Inicjalna wersja raportu.
